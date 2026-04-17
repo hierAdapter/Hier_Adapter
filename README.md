@@ -273,18 +273,7 @@ All experiments are fully reproducible. To replicate any result reported in the 
 
 > *Author information is anonymized for double-blind peer review in compliance with IEEE TSE submission guidelines. This section will be updated upon paper acceptance.*
 
-If you use HierAdapter, its datasets, or any part of this codebase in your research, please cite:
 
-```bibtex
-@article{hieradapter2025,
-  title   = {HierAdapter: Input-Adaptive Hierarchical Laplacian Residual Fusion
-             for Parameter-Efficient Fine-Tuning in Code Intelligence},
-  author  = {Anonymous Authors},
-  journal = {IEEE Transactions on Software Engineering},
-  year    = {2025},
-  note    = {Under Review}
-}
-```
 
 ---
 
