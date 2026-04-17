@@ -33,7 +33,7 @@
 This design is validated primarily on **code vulnerability detection** — a safety-critical software engineering task — and extended to **code clone detection**, with evaluation across multiple Code Pre-trained Language Models (CodePTMs) and token length settings.
 
 <p align="center">
-  <img src="figures/fig3_stochastic.png" alt="Stochastic Variation Analysis" width="80%"/>
+  <img src="Figures/fahim's section (68) (1).jpg" alt="Stochastic Variation Analysis" width="80%"/>
   <br/>
   <em>Fig. 3 — Multidimensional analysis of stochastic variations across identical training configurations. (A) Hierarchical representation of Laplacian signal strength and seed-wise Laplacian norm distributions on the test set; (B) Empirical seed-wise convergence trajectories.</em>
 </p>
