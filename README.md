@@ -45,14 +45,14 @@ This design is validated primarily on **code vulnerability detection** — a saf
 ```
 hieradapter/
 ├── Clone det with Codt5.ipynb        # Code clone detection — CodeT5+ 770M backbone
-├── HierAdapter_all.ipynb             # HierAdapter: all model × token configurations (main experiments)
+├── HierAdapter_all.ipynb             # HierAdapter: all code_model × token configurations (main experiments)
 ├── Inferences.ipynb                  # Inference & out-of-domain / adversarial analysis
 ├── Statistics of Dataset.ipynb       # Dataset statistical overview & preprocessing
 ├── Token length 512.ipynb            # All PEFT baselines — 512-token setting
 ├── Token length 1024.ipynb           # All PEFT baselines — 1024-token setting
 └── figures/
-    ├── fig2_architecture.png         # HierAdapter architecture diagram
-    └── fig3_stochastic.png           # Stochastic variation analysis
+    ├── main.jpg                      # HierAdapter architecture diagram
+    └── fahim's section (68).jpg      # Stochastic variation analysis
 ```
 
 > **Quick Navigation:** Use the table below to jump directly to any experiment of interest.
