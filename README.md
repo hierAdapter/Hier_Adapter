@@ -135,7 +135,7 @@ Evaluates the following PEFT strategies on the code clone detection task using *
 |---|---|
 | GateRA | Gated residual adapter fine-tuning |
 | Prefix Tuning  | Soft prompt prefix injection |
-| Adapter Clone Det | Standard bottleneck adapter |
+| Adapter | Standard bottleneck adapter |
 | LoRA | Low-rank weight decomposition |
 | BitFit | Bias-only fine-tuning |
 | TS-PEFT | Task-specific PEFT variant |
@@ -212,7 +212,6 @@ Provides a complete statistical overview of all datasets used in this study, inc
 ```bash
 jupyter notebook "Statistics of Dataset.ipynb"
 ```
-
 ---
 
 ## Inference & Analysis
