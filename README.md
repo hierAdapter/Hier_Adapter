@@ -106,23 +106,18 @@ clone_dataset = load_dataset("hieradapter/Code_clone")
 ### Requirements
 
 ```bash
-# Clone this repository
-git clone https://github.com/hieradapter/hieradapter.git
-cd hieradapter
+!git clone https://github.com/hierAdapter/Hier_Adapter.git
+!cd Hier_Adapter
 
-# Create and activate virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate          # Linux/macOS
-# venv\Scripts\activate           # Windows
+!python -m venv venv
+!source venv/bin/activate
 
-# Install dependencies
-pip install -r requirements.txt
 ```
 
 ### Core Dependencies
 
 ```bash
-pip install torch transformers datasets peft \
+!pip install torch transformers datasets peft \
             scikit-learn numpy pandas matplotlib \
             jupyter notebook accelerate
 ```
