@@ -109,9 +109,6 @@ clone_dataset = load_dataset("hieradapter/Code_clone")
 !git clone https://github.com/hierAdapter/Hier_Adapter.git
 !cd Hier_Adapter
 
-!python -m venv venv
-!source venv/bin/activate
-
 ```
 
 ### Core Dependencies
