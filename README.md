@@ -134,7 +134,7 @@ Evaluates the following PEFT strategies on the code clone detection task using *
 | Method | Description |
 |---|---|
 | GateRA | Gated residual adapter fine-tuning |
-| Prefix Tuning (CodeT5+) | Soft prompt prefix injection |
+| Prefix Tuning  | Soft prompt prefix injection |
 | Adapter Clone Det | Standard bottleneck adapter |
 | LoRA | Low-rank weight decomposition |
 | BitFit | Bias-only fine-tuning |
@@ -186,7 +186,7 @@ Comprehensive PEFT baseline experiments across both 512- and 1024-token settings
 | LoRA | ✅ | ✅ | CodeT5+ 220M/770M, Qwen 1.5B/3B |
 | BitFit | ✅ | ✅ | CodeT5+ 220M/770M, Qwen 1.5B/3B |
 | Prefix Tuning | ✅ | ✅ | CodeT5+ 220M/770M, Qwen 2.5-Coder-3B |
-| Adapter (Standard) | ✅ | ✅ | CodeT5+ 220M/770M, Qwen 1.5B/3B |
+| Adapter | ✅ | ✅ | CodeT5+ 220M/770M, Qwen 1.5B/3B |
 
 ```bash
 # 512-token setting
