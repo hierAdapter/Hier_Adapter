@@ -1,7 +1,7 @@
 # HierAdapter: Input-Adaptive Hierarchical Laplacian Residual Fusion for Parameter-Efficient Fine-Tuning in Code Intelligence
 
 <p align="center">
-  <img src="figures/fig2_architecture.png" alt="HierAdapter Architecture" width="85%"/>
+  <img src="figures/main.png" alt="HierAdapter Architecture" width="85%"/>
   <br/>
   <em>Fig. 2 — Working procedure of the HierAdapter framework: an input-adaptive Laplacian residual fusion approach across hierarchical transformer layers.</em>
 </p>
