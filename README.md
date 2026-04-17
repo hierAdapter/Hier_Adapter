@@ -127,7 +127,7 @@ clone_dataset = load_dataset("hieradapter/Code_clone")
 
 ### Code Clone Detection
 
-**📓 Notebook:** [`Clone det with Codt5.ipynb`]([./Clone%20det%20with%20Codt5.ipynb](https://github.com/hierAdapter/Hier_Adapter/blob/main/Clone%20det%20with%20Codt5%20(3).ipynb))
+**📓 Notebook:** [`Clone det with Codt5.ipynb`]((https://github.com/hierAdapter/Hier_Adapter/blob/main/Clone%20det%20with%20Codt5%20(3).ipynb))
 
 Evaluates the following PEFT strategies on the code clone detection task using **CodeT5+ 770M** as the backbone:
 
